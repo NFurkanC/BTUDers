@@ -13,8 +13,8 @@ while(sayi != 0){
     ++us;
     sayi /= 10;
 }
-printf("%d\n",a);
-//a = onluk sayi
+//printf("%d\n",onluk);
+//onluk = onluk sayi
 while(onluk>0){
  sonuc=onluk%hedef_taban;
  onluk/=hedef_taban;
